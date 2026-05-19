@@ -41,16 +41,16 @@ function GamePopup(props) {
                         </video>
                     </motion.div>
                     <motion.div className="carousel-item">
-                        <img src={props.image1} alt="image 1"/>
+                        <img src={props.image1} alt="game 1"/>
                     </motion.div>
                     <motion.div className="carousel-item">
-                        <img src={props.image2} alt="image 2"/>
+                        <img src={props.image2} alt="game 2"/>
                     </motion.div>
                     <motion.div className="carousel-item">
-                        <img src={props.image3} alt="image 3"/>
+                        <img src={props.image3} alt="game 3"/>
                     </motion.div>
                     <motion.div className="carousel-item">
-                        <img src={props.image4} alt="image 4"/>
+                        <img src={props.image4} alt="game 4"/>
                     </motion.div>
                 </motion.div>
             </motion.div>
