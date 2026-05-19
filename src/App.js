@@ -1,6 +1,5 @@
 import './App.css';
 import AppRoutes from './routes';
-import motion from 'framer-motion';
 
 function App() {
   return (
